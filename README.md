@@ -1,18 +1,18 @@
 <h1 align="center">Hi there, I'm Clinton Beyene! 👋</h1>
-<h3 align="center">A passionate Data Scientist!</h3>
+<h3 align="center">A passionate ML Engineer!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.prod.website-files.com/620d42e86cb8ec4d0839e59d/620d42e96cb8ecb25939f4e1_data-science-workflow-hero-image-p-800.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clintonbeyene&label=Profile%20views&color=0e75b6&style=flat" alt="clintonbeyene" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@clintonbeyene" target="blank"><img src="https://img.shields.io/twitter/follow/clintonbeyene?logo=twitter&style=for-the-badge" alt="clintonbeyene" /></a> </p>
 
-- 👀 Interested in **Artificial Intelligence and Data Science**
+- 👀 Interested in **Artificial Intelligence and Machine Learning**
 
 - 🌱 Currently practicing **Machine Learning and its applications**
 
 - 👯 Looking For collaborate on **DS and MLops Projects**
 
-- 💬 Ask me about **DS**
+- 💬 Ask me about **ML**
 
 - 📫 How to reach me **clintonbeye@gmail.com**
 
